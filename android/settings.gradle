@@ -1,0 +1,3 @@
+rootProject.name = 'HaloHistory'
+
+include ':app'
